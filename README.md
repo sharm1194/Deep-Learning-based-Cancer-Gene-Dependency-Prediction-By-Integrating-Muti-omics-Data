@@ -1,0 +1,2 @@
+# Deep-Learning-based-Cancer-Gene-Dependency-Prediction-By-Integrating-Muti-omics-Data
+In this study, different deep- learning based methods are explored by integrating multi-omics data, including genetic mutations, gene expression, copy number alterations and DNA methylation. Moreover, our approach evaluates three primary deep learning models: Autoencoder, Attention Enhanced Autoencoder, and Variational Autoencoder.
